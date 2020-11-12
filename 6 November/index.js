@@ -1,0 +1,1 @@
+document.getElementById("title").innerHTML = <h2>My Best Friend</h2>;
